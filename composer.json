@@ -1,0 +1,13 @@
+{
+  "name": "filchakov/mautic-jobs-rss-bundle",
+  "type": "mautic-plugin",
+  "authors": [
+    {
+      "name": "Filchakov Denis",
+      "email": "filchakov.denis@gmail.com"
+    }
+  ],
+  "require": {
+    "mautic/composer-plugin": "^1.0"
+  }
+}
