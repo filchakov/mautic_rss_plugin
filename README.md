@@ -1,0 +1,1 @@
+# mautic_rss_plugin
