@@ -1,6 +1,6 @@
 <?php
 
-namespace MauticPlugin\MauticJobsRssExtensionBundle\EventListener;
+namespace MauticPlugin\MauticJobsRssBundle\EventListener;
 
 use DOMDocument;
 use DOMXPath;
