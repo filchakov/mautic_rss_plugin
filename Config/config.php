@@ -8,7 +8,7 @@ return [
     'services' => [
         'events' => [
             'mautic.plugin.jobsrsstoemail.subscriber' => [
-                'class'     => 'MauticPlugin\MauticJobsRssExtensionBundle\EventListener\EmailSubscriber',
+                'class'     => 'MauticPlugin\MauticJobsRssBundle\EventListener\EmailSubscriber',
             ],
         ],
     ],
